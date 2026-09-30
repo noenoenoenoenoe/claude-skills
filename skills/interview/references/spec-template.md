@@ -41,7 +41,7 @@ Ce qui existe à la fin, sous quelle forme, pour qui. Un sous-titre par livrable
 Ce qui est supposé sans confirmation. Chaque ligne doit pouvoir être contredite.
 
 ## Critères de réussite
-Comment on saura que ça marche : des cas de test concrets (entrée → résultat attendu), y compris au moins un cas exclu et un cas de panne.
+Comment on saura que ça marche : des cas de test concrets (entrée → résultat attendu), en partant des exemples donnés par l'utilisateur pendant l'interview. Y inclure au moins un cas exclu et un cas de panne.
 
 ## Points ouverts
 Numérotés. Pour chacun : la décision attendue et ce qu'elle change dans la construction.

@@ -25,6 +25,9 @@ Avant la première question, regarder ce qui existe déjà : fichiers du repo, s
 Premier message, court :
 1. Reformuler l'idée en 2-3 lignes : l'événement de départ, ce qui doit se passer, pour qui.
 2. Inviter l'utilisateur à **tout dire, sans trier** : contexte, pourquoi maintenant, ce qui existe déjà, ce qui a déjà été essayé, contraintes, personnes concernées, craintes. Préciser que l'ordre et la forme n'ont aucune importance.
+3. **Demander au moins un exemple concret, idéalement plusieurs**, racontés du début à la fin : « Décris-moi un cas réel : qu'est-ce qui arrive, qu'est-ce qui doit se passer, qu'est-ce que tu vois à la fin ? ». Viser au minimum le cas normal, et si possible aussi un cas limite et un cas qui ne doit rien déclencher. Des vraies données (mail, message, ligne de tableau) valent mieux qu'une description.
+
+Cette question est obligatoire : un besoin sans exemple reste abstrait, et c'est dans les exemples qu'apparaissent les cas oubliés. Tant qu'aucun exemple n'a été donné, la reposer au tour suivant. Chaque exemple devient ensuite un critère de réussite de la spec (entrée → résultat attendu).
 
 Si la demande couvre plusieurs sous-projets indépendants, le signaler tout de suite et proposer de les découper. On interviewe ensuite le premier sous-projet seulement.
 
@@ -91,6 +94,7 @@ Une validation porte sur ce qui a été montré. Valider l'idée ne valide pas u
 | « C'est simple, je peux construire directement » | Les idées simples cachent les cas limites. Une interview courte (un tour) reste une interview. |
 | « Je pose les questions et je commence en attendant » | Le blocage, c'est la validation, pas la longueur. On présente, puis on attend. |
 | « Je vais tout lui demander, au cas où » | Seules les questions qui changent la construction méritent d'être posées. |
+| « J'ai compris l'idée, pas besoin d'exemple » | Sans exemple concret, on construit ce qu'on imagine, pas ce qui arrive vraiment. En demander au moins un. |
 | « Il a dit Slack, donc c'est Slack » | Une solution citée n'est pas un besoin. Vérifier le problème derrière. |
 | « Pas de simplification à proposer cette fois » | Il y en a toujours une à tester, même si elle est refusée. |
 | « Je suppose que… » (sans le dire) | Toute hypothèse est écrite dans « Hypothèses que je fais ». |
