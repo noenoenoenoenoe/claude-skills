@@ -8,7 +8,7 @@ Méthode de travail en **10 / 80 / 10** :
 |---|---|---|---|
 | Avant | 10 % | `interview` | Faire tout dire, challenger, creuser et simplifier le besoin avant de construire |
 | Pendant | 80 % | *doubt-driven dev* | Développer en doutant de chaque hypothèse (à venir) |
-| Après | 10 % | `hostile-review` | Relire le résultat comme un adversaire qui cherche à le casser (à venir) |
+| Après | 10 % | `hostile-review` | Relire le résultat comme un adversaire qui cherche à le casser |
 
 ## Installation
 
