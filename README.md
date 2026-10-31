@@ -10,6 +10,12 @@ Méthode de travail en **10 / 80 / 10** :
 | Pendant | 80 % | `doubt-driven-dev` | Développer en doutant de chaque hypothèse |
 | Après | 10 % | `hostile-review` | Relire le résultat comme un adversaire qui cherche à le casser |
 
+Autres skills :
+
+| Skill | Rôle |
+|---|---|
+| `ui-overlays` | Vocabulaire exact des calques d'UI (modal, popover, tooltip, toast, sheet, drawer…) pour décrire, maquetter et coder sans ambiguïté |
+
 ## Installation
 
 ```bash
